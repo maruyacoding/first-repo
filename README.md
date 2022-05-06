@@ -6,9 +6,9 @@
 
 ## How to start
 
-'''shell
+```shell
 $ python hello.py
-'''
+```
 
 ## Contributing
 
